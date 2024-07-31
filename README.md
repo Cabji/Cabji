@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cabji
 - 👀 I’m interested in all sorts of things
-- 🌱 I’m currently converting the PHP flip project over to C++
-- 💞️ I’m looking to collaborate on nothing right now as I'm too busy
+- 🌱 I’m currently learning wxWigets in C++
+- 💞️ I’m looking to take years building a desktop program for accurately and efficiently pricing construction projects
 - 📫 How to reach me email bearded donkey online (a) gmail * com
 
 <!---
