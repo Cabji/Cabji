@@ -15,7 +15,7 @@ software dev is like this:
 - revise AI's code, adjust: 5 mins
 build, launch and test: 1 min
 notice that a string is not concatenating correctly: 5 seconds
-work out how to make that string concatenate: 3 days
+- work out how to make that string concatenate: 3 days
 
 rinse and repeat.
 <!---
