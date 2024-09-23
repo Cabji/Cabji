@@ -13,8 +13,8 @@ software dev is like this:
 - copy & paste declaration with comment notes to the AI: 10 seconds
 - copy & paste the code from the AI to your existing code: 10 seconds
 - revise AI's code, adjust: 5 mins
-build, launch and test: 1 min
-notice that a string is not concatenating correctly: 5 seconds
+- build, launch and test: 1 min
+- notice that a string is not concatenating correctly: 5 seconds
 - work out how to make that string concatenate: 3 days
 
 rinse and repeat.
