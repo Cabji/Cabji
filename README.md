@@ -18,6 +18,8 @@ software dev is like this:
 - work out how to make that string concatenate: 3 days
 
 rinse and repeat.
+---
+All this code is beamed directly via the power of the interarwebz to you, from my toilet!
 <!---
 Cabji/Cabji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
