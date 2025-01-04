@@ -4,7 +4,7 @@
 - 💞️ I’m looking to take years building a desktop program for accurately and efficiently pricing construction projects
 - 📫 How to reach me email bearded donkey online (a) gmail * com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabji&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabji&theme=dracula&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 software dev is like this: 
 
