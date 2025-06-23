@@ -6,7 +6,7 @@
 
 [![Cabji's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabji&theme=dracula&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Cabji's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cabji&theme=dracula&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Cabji's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cabji&theme=dracula&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 software dev is like this: 
 
