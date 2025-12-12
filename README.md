@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cabji
 - 👀 I’m interested in all sorts of things
-- 🌱 I’m currently learning wxWidgets in C++
+- 🌱 I’m currently working on C++ classes that may one day become a desktop program
 - 💞️ I’m looking to take years building a desktop program for accurately and efficiently pricing construction projects
 - 📫 How to reach me email bearded donkey online (a) gmail * com
 
